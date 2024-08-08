@@ -25,6 +25,11 @@ const brailleAlphabet = {
     'X': '⠭',
     'Y': '⠽',
     'Z': '⠵',
+    'ç': '⠯',
+    'é': '⠿',
+    'à': '⠷',
+    'è': '⠮',
+    
 };
 
 function showBraille(letter) {
